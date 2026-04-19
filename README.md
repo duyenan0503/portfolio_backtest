@@ -39,10 +39,10 @@ Just for the math
 
 2. show_summary_table: To compare Comparative Benchmarks.
 
-3. show_sharpe_distribution: To evaluate Performance Stability.
-This is the "Stress Test." While the table shows one final score, this chart shows you how often the portfolio worked in short windows of time. 
+3. show_performance_curves: To track Historical Momentum & Risk and export "Portfolio_Analysis.xlsx" file.
 
-4. show_performance_curves: To track Historical Momentum & Risk.
+4. show_sharpe_distribution: To evaluate Performance Stability and export "Rolling Sharpe Analysis.xlsx" file.
+This is the "Stress Test." While the table shows one final score, this chart shows you how often the portfolio worked in short windows of time. 
 
 **Table for Final Performance**
 <img width="1249" height="149" alt="image" src="https://github.com/user-attachments/assets/1b0c7439-08ea-4b0b-9103-e837394db9fd" />
